@@ -6,11 +6,11 @@ Central repository for development standards, templates, and shared engineering 
 
 ### Templates
 - Pull Request template  
+- Contributing guide
 - ADR (Architecture Decision Record) template  
 
 ### Documentation
 - Definition of Done  
-- Git Contributing Guide  
 
 ## Purpose
 
